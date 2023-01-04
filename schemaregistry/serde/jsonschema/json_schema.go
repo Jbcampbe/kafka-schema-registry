@@ -21,8 +21,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/confluentinc/confluent-kafka-go/schemaregistry"
-	"github.com/confluentinc/confluent-kafka-go/schemaregistry/serde"
+	"github.com/Jbcampbe/kafka-schema-registry/schemaregistry"
+	"github.com/Jbcampbe/kafka-schema-registry/schemaregistry/serde"
 	"github.com/invopop/jsonschema"
 	jsonschema2 "github.com/santhosh-tekuri/jsonschema/v5"
 )

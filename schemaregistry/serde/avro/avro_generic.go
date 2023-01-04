@@ -22,8 +22,8 @@ import (
 
 	"github.com/actgardner/gogen-avro/v10/parser"
 	"github.com/actgardner/gogen-avro/v10/schema"
-	"github.com/confluentinc/confluent-kafka-go/schemaregistry"
-	"github.com/confluentinc/confluent-kafka-go/schemaregistry/serde"
+	"github.com/Jbcampbe/kafka-schema-registry/schemaregistry"
+	"github.com/Jbcampbe/kafka-schema-registry/schemaregistry/serde"
 	"github.com/heetch/avro"
 )
 

@@ -16,13 +16,12 @@
 
 package serde
 
-import "C"
 import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
 
-	"github.com/confluentinc/confluent-kafka-go/schemaregistry"
+	"github.com/Jbcampbe/kafka-schema-registry/schemaregistry"
 )
 
 // Type represents the type of Serde
